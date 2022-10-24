@@ -1,0 +1,7 @@
+- 👋 Salom men ismoil
+- Telegram: @iNetUz
+- YuTube: iNetuz
+- TikTok: @iNetUz
+- Instagram: @ismoil.7888
+- Telegram Chanel: @Magicbot_Uz @iNet_Uz
+- GitHub: @iNetUz
