@@ -2,6 +2,6 @@
 - Telegram: @iNetUz
 - YuTube: iNetuz
 - TikTok: @iNetUz
-- Instagram: @ismoil.7888
-- Telegram Chanel: @Magicbot_Uz @iNet_Uz
+- Instagram: @_the.sadaddinov_
+- Telegram Chanel: @my_abouts @iNet_Uz
 - GitHub: @iNetUz
