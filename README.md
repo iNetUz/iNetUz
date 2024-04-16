@@ -3,5 +3,6 @@
 - YuTube: iNetuz
 - TikTok: @iNetUz
 - Instagram: @_the.sadaddinov_
-- Telegram Chanel: @my_abouts @iNet_Uz
+- Telegram Chanel: @my_abouts @iNetUz_dev
+- My WebSite: inetuz.site
 - GitHub: @iNetUz
