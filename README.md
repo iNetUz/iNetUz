@@ -1,8 +1,1 @@
-- 👋 Salom men ismoil
-- Telegram: @iNetUz
-- YuTube: iNetuz
-- TikTok: @iNetUz
-- Instagram: @_the.sadaddinov_
-- Telegram Chanel: @my_abouts @iNetUz_dev
-- My WebSite: inetuz.site
-- GitHub: @iNetUz
+
