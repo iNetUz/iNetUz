@@ -46,7 +46,7 @@ CSS           4 mins          ░░░░░░░░░░░░░░░░�
 
 
 
-🚧 **my todoist stats:**
+🚧 **my stats:**
 <!-- TODO-IST:START -->
 🏆  8,004 Points           
 🌸  Completed 0 tasks today           
