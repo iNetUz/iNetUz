@@ -31,7 +31,7 @@
 
 ---
 
-📊 **this week i spent my time on:**
+📊 **this week I spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
@@ -58,7 +58,7 @@ CSS           4 mins          ░░░░░░░░░░░░░░░░�
 ---
 
 ### 📈 My Github Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=inetuz&show_icons=true&theme=gotham" alt="inetuz" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=inetuz&show_icons=true&count_private=true&hide=prs&theme=radical" alt="inetuz" />
 
 ---
 
