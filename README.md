@@ -55,8 +55,9 @@ CSS           4 mins          ░░░░░░░░░░░░░░░░�
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+---
 
+### 📈 My Github Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=inetuz&show_icons=true&theme=gotham" alt="inetuz" />
 
 ---
